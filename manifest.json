@@ -1,6 +1,6 @@
 {
-    "name": "mobex",
-    "short_name": "mobex",
+    "name": "mobevace",
+    "short_name": "mobevace",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
